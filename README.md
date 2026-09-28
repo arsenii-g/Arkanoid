@@ -1,6 +1,6 @@
 # Arkanoid
 
-Proyecto de clase de un juego 2D hecho con **Unity 6.6 (6000.6.3f1)**.
+Proyecto de clase de un juego 2D hecho con **Unity 6.4 (6000.4.12f1)**.
 
 ## Abrir el proyecto
 
