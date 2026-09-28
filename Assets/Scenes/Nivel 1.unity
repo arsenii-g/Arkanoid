@@ -591,7 +591,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Paddle
   velocidad: 8
-  limiteX: 7
+  limiteX: 9.5
 --- !u!61 &1085789629
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -725,7 +725,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PaddleMovement
   velocidad: 8
-  limiteX: 7
+  limiteX: 9.5
 --- !u!1001 &1089122336
 PrefabInstance:
   m_ObjectHideFlags: 0
