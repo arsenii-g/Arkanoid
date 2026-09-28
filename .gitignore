@@ -1,0 +1,30 @@
+# Unity genera estas carpetas localmente; no forman parte del proyecto compartido.
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Archivos generados por IDE y sistema operativo.
+.vs/
+.vscode/
+.idea/
+.DS_Store
+*.csproj
+*.sln
+*.slnx
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.pdb
+*.mdb
+
+# Exportaciones de Unity.
+*.apk
+*.aab
+*.unitypackage

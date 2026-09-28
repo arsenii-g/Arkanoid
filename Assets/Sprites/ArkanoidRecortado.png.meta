@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: 9d303fe2825c05048b5648a66de40dce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7935216101363813245
+    second: ArkanoidRecortado_0
+  - first:
+      213: 6653065215207056368
+    second: ArkanoidRecortado_1
+  - first:
+      213: 680167466919441083
+    second: ArkanoidRecortado_2
+  - first:
+      213: -4650431515064521003
+    second: ArkanoidRecortado_3
+  - first:
+      213: 8792637828810764503
+    second: ArkanoidRecortado_4
+  - first:
+      213: 5886232432604024227
+    second: ArkanoidRecortado_5
+  - first:
+      213: 7453765102905897473
+    second: ArkanoidRecortado_6
+  - first:
+      213: 2997786528008250721
+    second: ArkanoidRecortado_7
+  - first:
+      213: -6358758159270336382
+    second: ArkanoidRecortado_8
+  - first:
+      213: 1281469701358355572
+    second: ArkanoidRecortado_9
+  - first:
+      213: -6081614360065733938
+    second: ArkanoidRecortado_10
+  - first:
+      213: -7395085380060197925
+    second: ArkanoidRecortado_11
+  - first:
+      213: 8145736086865774822
+    second: ArkanoidRecortado_12
+  - first:
+      213: -4669844055382386705
+    second: ArkanoidRecortado_13
+  - first:
+      213: -2350098586775310828
+    second: ArkanoidRecortado_14
+  - first:
+      213: 243163275119444193
+    second: ArkanoidRecortado_15
+  - first:
+      213: -6573274306743992570
+    second: ArkanoidRecortado_16
+  - first:
+      213: 8148073288024184478
+    second: ArkanoidRecortado_17
+  - first:
+      213: 7866040902811455593
+    second: ArkanoidRecortado_18
+  - first:
+      213: -5629963492540301400
+    second: ArkanoidRecortado_19
+  - first:
+      213: 8086917649350444882
+    second: ArkanoidRecortado_20
+  - first:
+      213: -4477045378880408408
+    second: ArkanoidRecortado_21
+  - first:
+      213: -5234045419065404354
+    second: ArkanoidRecortado_22
+  - first:
+      213: 4537339587388513051
+    second: ArkanoidRecortado_23
+  - first:
+      213: 24403105344912412
+    second: ArkanoidRecortado_24
+  - first:
+      213: 8930533071227250715
+    second: ArkanoidRecortado_25
+  - first:
+      213: 4839269802494592491
+    second: ArkanoidRecortado_26
+  - first:
+      213: 6737762120603259718
+    second: ArkanoidRecortado_27
+  - first:
+      213: -7211014308216397028
+    second: ArkanoidRecortado_28
+  - first:
+      213: 6011990417249004825
+    second: ArkanoidRecortado_29
+  - first:
+      213: 4156090566572795812
+    second: ArkanoidRecortado_30
+  - first:
+      213: 1164339352568763370
+    second: ArkanoidRecortado_31
+  - first:
+      213: 8853549337399963041
+    second: ArkanoidRecortado_32
+  - first:
+      213: 4582651239259497580
+    second: ArkanoidRecortado_33
+  - first:
+      213: -4527334642036621024
+    second: ArkanoidRecortado_34
+  - first:
+      213: 525098807717837891
+    second: ArkanoidRecortado_35
+  - first:
+      213: 913343099264428549
+    second: ArkanoidRecortado_36
+  - first:
+      213: 8060609176046868158
+    second: ArkanoidRecortado_37
+  - first:
+      213: 5046972236060008446
+    second: ArkanoidRecortado_38
+  - first:
+      213: 5980830700441811485
+    second: ArkanoidRecortado_39
+  - first:
+      213: -613117267975426307
+    second: ArkanoidRecortado_40
+  - first:
+      213: -4179468194324667932
+    second: ArkanoidRecortado_41
+  - first:
+      213: -7161172129979924314
+    second: ArkanoidRecortado_42
+  - first:
+      213: -5668598907601625672
+    second: ArkanoidRecortado_43
+  - first:
+      213: 1510743991911791831
+    second: ArkanoidRecortado_44
+  - first:
+      213: 995905610231350379
+    second: ArkanoidRecortado_45
+  - first:
+      213: -6355507258751428732
+    second: ArkanoidRecortado_46
+  - first:
+      213: -8637098319944388868
+    second: ArkanoidRecortado_47
+  - first:
+      213: 7214752959759449781
+    second: ArkanoidRecortado_48
+  - first:
+      213: 5190008957079603861
+    second: ArkanoidRecortado_49
+  - first:
+      213: -675258290638172377
+    second: ArkanoidRecortado_50
+  - first:
+      213: -4214506230010914546
+    second: ArkanoidRecortado_51
+  - first:
+      213: -3292581420827761509
+    second: ArkanoidRecortado_52
+  - first:
+      213: -5360524791231814164
+    second: ArkanoidRecortado_53
+  - first:
+      213: 7052945272796476100
+    second: ArkanoidRecortado_54
+  - first:
+      213: 3823608811211976249
+    second: ArkanoidRecortado_55
+  - first:
+      213: 1610924476326026350
+    second: ArkanoidRecortado_56
+  - first:
+      213: 622206485218406612
+    second: ArkanoidRecortado_57
+  - first:
+      213: 8367926732799183616
+    second: ArkanoidRecortado_58
+  - first:
+      213: 1638232624407747951
+    second: ArkanoidRecortado_59
+  - first:
+      213: -4708394038249880135
+    second: ArkanoidRecortado_60
+  - first:
+      213: 7985428674114656913
+    second: ArkanoidRecortado_61
+  - first:
+      213: -2234761721716238442
+    second: ArkanoidRecortado_62
+  - first:
+      213: -3516383613580484731
+    second: ArkanoidRecortado_63
+  - first:
+      213: -7745166808817172112
+    second: ArkanoidRecortado_64
+  - first:
+      213: 6558329694299660178
+    second: ArkanoidRecortado_65
+  - first:
+      213: -1603563265596756689
+    second: ArkanoidRecortado_66
+  - first:
+      213: -5775550456163501176
+    second: ArkanoidRecortado_67
+  - first:
+      213: 5550780785568086323
+    second: ArkanoidRecortado_68
+  - first:
+      213: 6788619042141298432
+    second: ArkanoidRecortado_69
+  - first:
+      213: 362310756661841177
+    second: ArkanoidRecortado_70
+  - first:
+      213: -7622936203232722366
+    second: ArkanoidRecortado_71
+  - first:
+      213: -8339876302460230540
+    second: ArkanoidRecortado_72
+  - first:
+      213: -3230211543176885644
+    second: ArkanoidRecortado_73
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ArkanoidRecortado_0
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1302
+        width: 387
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384ff369ff270e190800000000000000
+      internalID: -7935216101363813245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArkanoidRecortado_1
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1337
+        width: 306
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3ace3509f645c50800000000000000
+      internalID: 6653065215207056368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArkanoidRecortado_2
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1337
+        width: 292
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2b28d15b0707900800000000000000
+      internalID: 680167466919441083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArkanoidRecortado_3
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1314
+        width: 328
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de2c441d29567fb0800000000000000
+      internalID: -4650431515064521003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArkanoidRecortado_4
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 1326
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d07de81589b50a70800000000000000
+      internalID: 8792637828810764503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArkanoidRecortado_5
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 1326
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad0fbaf53910b150800000000000000
+      internalID: 5886232432604024227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArkanoidRecortado_6
+      rect:
+        serializedVersion: 2
+        x: 2134
+        y: 1326
+        width: 100
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102b8ed8ed7117760800000000000000
+      internalID: 7453765102905897473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArkanoidRecortado_7
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 1326
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165226ad6f64a9920800000000000000
+      internalID: 2997786528008250721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArkanoidRecortado_8
+      rect:
+        serializedVersion: 2
+        x: 2466
+        y: 1327
+        width: 102
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2882310f42721c7a0800000000000000
+      internalID: -6358758159270336382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArkanoidRecortado_9
+      rect:
+        serializedVersion: 2
+        x: 2632
+        y: 1325
+        width: 101
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47404e367e1b8c110800000000000000
+      internalID: 1281469701358355572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArkanoidRecortado_10
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1007
+        width: 281
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca0e5716f3c99ba0800000000000000
+      internalID: -6081614360065733938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArkanoidRecortado_11
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1007
+        width: 292
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdbc3d517016f5990800000000000000
+      internalID: -7395085380060197925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArkanoidRecortado_12
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1007
+        width: 293
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e807b320d77b0170800000000000000
+      internalID: 8145736086865774822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArkanoidRecortado_13
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1007
+        width: 292
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe79672d291613fb0800000000000000
+      internalID: -4669844055382386705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArkanoidRecortado_14
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 1007
+        width: 291
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e2c1469c5c26fd0800000000000000
+      internalID: -2350098586775310828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArkanoidRecortado_15
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 1007
+        width: 291
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e04aebd5b3ef5300800000000000000
+      internalID: 243163275119444193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArkanoidRecortado_16
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 1007
+        width: 293
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f725f38d907c4a0800000000000000
+      internalID: -6573274306743992570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArkanoidRecortado_17
+      rect:
+        serializedVersion: 2
+        x: 2441
+        y: 1007
+        width: 281
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96d7803c75c31170800000000000000
+      internalID: 8148073288024184478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArkanoidRecortado_18
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 703
+        width: 281
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96015c8668ac92d60800000000000000
+      internalID: 7866040902811455593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArkanoidRecortado_19
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 703
+        width: 292
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8afb7b8480a5ed1b0800000000000000
+      internalID: -5629963492540301400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArkanoidRecortado_20
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 703
+        width: 293
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257ce5971c08a3070800000000000000
+      internalID: 8086917649350444882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArkanoidRecortado_21
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 703
+        width: 292
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a47784c2f65ed1c0800000000000000
+      internalID: -4477045378880408408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArkanoidRecortado_22
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 703
+        width: 304
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34985a2c6fec57b0800000000000000
+      internalID: -5234045419065404354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArkanoidRecortado_23
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 434
+        width: 281
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b1c9b905ed7fe30800000000000000
+      internalID: 4537339587388513051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArkanoidRecortado_24
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 434
+        width: 292
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1cff79be72b65000800000000000000
+      internalID: 24403105344912412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArkanoidRecortado_25
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 434
+        width: 293
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18e0652380afeb70800000000000000
+      internalID: 8930533071227250715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArkanoidRecortado_41
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 435
+        width: 295
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e12c3f22db8ff5c0800000000000000
+      internalID: -4179468194324667932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArkanoidRecortado_42
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 258
+        width: 281
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a08e19a3e76e9c90800000000000000
+      internalID: -7161172129979924314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArkanoidRecortado_43
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 257
+        width: 292
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bddc3ab3571551b0800000000000000
+      internalID: -5668598907601625672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArkanoidRecortado_44
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 258
+        width: 291
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc357808ad37f410800000000000000
+      internalID: 1510743991911791831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArkanoidRecortado_59
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 257
+        width: 269
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d974564eb2cb610800000000000000
+      internalID: 1638232624407747951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArkanoidRecortado_60
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 82
+        width: 281
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b58c8f719c68aeb0800000000000000
+      internalID: -4708394038249880135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArkanoidRecortado_61
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 82
+        width: 293
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a92db0211f1de60800000000000000
+      internalID: 7985428674114656913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArkanoidRecortado_62
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 82
+        width: 290
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697967bed088cf0e0800000000000000
+      internalID: -2234761721716238442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArkanoidRecortado_73
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 84
+        width: 279
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a439347bbfb23d0800000000000000
+      internalID: -3230211543176885644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d95839294c2f5d2429d9440cda45dd8c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ArkanoidRecortado_0: -7935216101363813245
+      ArkanoidRecortado_1: 6653065215207056368
+      ArkanoidRecortado_10: -6081614360065733938
+      ArkanoidRecortado_11: -7395085380060197925
+      ArkanoidRecortado_12: 8145736086865774822
+      ArkanoidRecortado_13: -4669844055382386705
+      ArkanoidRecortado_14: -2350098586775310828
+      ArkanoidRecortado_15: 243163275119444193
+      ArkanoidRecortado_16: -6573274306743992570
+      ArkanoidRecortado_17: 8148073288024184478
+      ArkanoidRecortado_18: 7866040902811455593
+      ArkanoidRecortado_19: -5629963492540301400
+      ArkanoidRecortado_2: 680167466919441083
+      ArkanoidRecortado_20: 8086917649350444882
+      ArkanoidRecortado_21: -4477045378880408408
+      ArkanoidRecortado_22: -5234045419065404354
+      ArkanoidRecortado_23: 4537339587388513051
+      ArkanoidRecortado_24: 24403105344912412
+      ArkanoidRecortado_25: 8930533071227250715
+      ArkanoidRecortado_26: 4839269802494592491
+      ArkanoidRecortado_27: 6737762120603259718
+      ArkanoidRecortado_28: -7211014308216397028
+      ArkanoidRecortado_29: 6011990417249004825
+      ArkanoidRecortado_3: -4650431515064521003
+      ArkanoidRecortado_30: 4156090566572795812
+      ArkanoidRecortado_31: 1164339352568763370
+      ArkanoidRecortado_32: 8853549337399963041
+      ArkanoidRecortado_33: 4582651239259497580
+      ArkanoidRecortado_34: -4527334642036621024
+      ArkanoidRecortado_35: 525098807717837891
+      ArkanoidRecortado_36: 913343099264428549
+      ArkanoidRecortado_37: 8060609176046868158
+      ArkanoidRecortado_38: 5046972236060008446
+      ArkanoidRecortado_39: 5980830700441811485
+      ArkanoidRecortado_4: 8792637828810764503
+      ArkanoidRecortado_40: -613117267975426307
+      ArkanoidRecortado_41: -4179468194324667932
+      ArkanoidRecortado_42: -7161172129979924314
+      ArkanoidRecortado_43: -5668598907601625672
+      ArkanoidRecortado_44: 1510743991911791831
+      ArkanoidRecortado_45: 995905610231350379
+      ArkanoidRecortado_46: -6355507258751428732
+      ArkanoidRecortado_47: -8637098319944388868
+      ArkanoidRecortado_48: 7214752959759449781
+      ArkanoidRecortado_49: 5190008957079603861
+      ArkanoidRecortado_5: 5886232432604024227
+      ArkanoidRecortado_50: -675258290638172377
+      ArkanoidRecortado_51: -4214506230010914546
+      ArkanoidRecortado_52: -3292581420827761509
+      ArkanoidRecortado_53: -5360524791231814164
+      ArkanoidRecortado_54: 7052945272796476100
+      ArkanoidRecortado_55: 3823608811211976249
+      ArkanoidRecortado_56: 1610924476326026350
+      ArkanoidRecortado_57: 622206485218406612
+      ArkanoidRecortado_58: 8367926732799183616
+      ArkanoidRecortado_59: 1638232624407747951
+      ArkanoidRecortado_6: 7453765102905897473
+      ArkanoidRecortado_60: -4708394038249880135
+      ArkanoidRecortado_61: 7985428674114656913
+      ArkanoidRecortado_62: -2234761721716238442
+      ArkanoidRecortado_63: -3516383613580484731
+      ArkanoidRecortado_64: -7745166808817172112
+      ArkanoidRecortado_65: 6558329694299660178
+      ArkanoidRecortado_66: -1603563265596756689
+      ArkanoidRecortado_67: -5775550456163501176
+      ArkanoidRecortado_68: 5550780785568086323
+      ArkanoidRecortado_69: 6788619042141298432
+      ArkanoidRecortado_7: 2997786528008250721
+      ArkanoidRecortado_70: 362310756661841177
+      ArkanoidRecortado_71: -7622936203232722366
+      ArkanoidRecortado_72: -8339876302460230540
+      ArkanoidRecortado_73: -3230211543176885644
+      ArkanoidRecortado_8: -6358758159270336382
+      ArkanoidRecortado_9: 1281469701358355572
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
