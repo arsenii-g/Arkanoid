@@ -12,6 +12,7 @@ public class Brick : MonoBehaviour
 
     private int vidaActual;
     private SpriteRenderer sr;
+    private bool destruido;
 
     public static event Action<int> LadrilloDestruido;
 
@@ -27,6 +28,13 @@ public class Brick : MonoBehaviour
         {
             return;
         }
+
+        RecibirGolpe();
+    }
+
+    public void RecibirGolpe()
+    {
+        if (destruido) return;
 
         vidaActual--;
 
@@ -47,6 +55,8 @@ public class Brick : MonoBehaviour
 
     void BreakBrick()
     {
+        destruido = true;
+        GetComponent<Collider2D>().enabled = false;
         LadrilloDestruido?.Invoke(puntos);
         Destroy(gameObject);
     }

@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 5221630438922691068}
   - component: {fileID: 5637795056566948586}
   - component: {fileID: 3458941551861085118}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Brick
   m_TagString: Brick
   m_Icon: {fileID: 0}
@@ -28,7 +28,7 @@ Transform:
   m_GameObject: {fileID: 6900423131489338871}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 126.8, y: 113.1, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -137,7 +137,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 2.8102286, y: 1.5299999}
+  m_Size: {x: 2.3418574, y: 1.275}
   m_EdgeRadius: 0
 --- !u!114 &3458941551861085118
 MonoBehaviour:
@@ -149,7 +149,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 2b6a56760c8b63143a586e57ce1dc5bd, type: 3}
-  m_Name: 
+  m_Name:
   m_EditorClassIdentifier: Assembly-CSharp::Brick
   vidaMax: 1
   puntos: 100
