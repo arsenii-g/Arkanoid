@@ -34,3 +34,5 @@ Para importar el paquete en otro proyecto 2D Universal con Unity 6.4, añade los
 Coordinaos antes de editar simultáneamente la misma escena o prefab: los conflictos en esos archivos pueden requerir una revisión manual en Unity.
 
 Consulta la [guía del equipo](Documentacion/GuiaCompaneros.md) para los comandos completos, cómo subir desde el navegador y qué hacer si aparecen errores. La [explicación del código](Documentacion/Funcionamiento.md) describe la bola, los ladrillos y la puntuación.
+
+El [detalle de cambios y funcionamiento](Documentacion/CambiosYFuncionamiento.md) explica cada script, la revisión con los apuntes y cómo configurar los botones **RETRY** y **MENU** con **Sprite Swap**, sin scripts de animación.

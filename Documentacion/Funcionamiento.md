@@ -14,6 +14,8 @@ Si hay un choque, la bola se coloca en el punto de contacto y cambia de direcci�
 
 Cuando quedan cero bloques se carga Victory. Si la bola baja de la zona de juego se carga Defeat. La puntuación final se guarda en una variable estática para mostrarla en la pantalla de resultado. Los botones de esa pantalla cargan otra vez Nivel 1 o vuelven a Menu.
 
+En Victory y Defeat, los botones RETRY y MENU usan imágenes de píxeles con el estilo del menú inicial. Su componente Button utiliza Sprite Swap: la imagen cambia mientras se mantiene pulsado y vuelve a la normal al soltar, sin scripts ni Animator. El [documento de cambios](CambiosYFuncionamiento.md) explica cómo se configura y detalla los scripts.
+
 El nivel contiene 33 ladrillos independientes en tres filas de 11. Cada objeto tiene su componente `Brick` y su collider, por lo que solo desaparece el ladrillo golpeado. Cada uno da 100 puntos y la victoria llega cuando no queda ninguno. Los ladrillos están guardados en la escena; no se generan paredes ni ladrillos durante la partida.
 
 ## Sonidos y resolución

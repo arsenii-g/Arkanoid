@@ -46,6 +46,8 @@ Controles:
 
 Hay **un nivel**, con **33 ladrillos individuales**, repartidos en tres filas. Cada ladrillo da **100 puntos**. Si la bola cae por debajo de la raqueta, aparece la derrota; al destruir todos los ladrillos, la victoria. Ambas pantallas permiten volver a jugar o regresar al menú.
 
+En las pantallas de resultado, **RETRY** reinicia el nivel y **MENU** vuelve al inicio. Los botones usan **Sprite Swap** para mostrar su imagen pulsada mientras mantienes el clic. Las imágenes están en `Assets/Sprites/BotonesResultado`. La [explicación de cambios](CambiosYFuncionamiento.md) detalla su configuración y los scripts del juego.
+
 Haz clic dentro de **Game** si el teclado no responde. Para terminar la prueba, vuelve a pulsar el botón Play de Unity. Los cambios que hagas en los objetos durante Play normalmente se pierden al salir: edita el nivel con Play detenido.
 
 Los Canvas ya tienen **Scale With Screen Size**, referencia **1920 × 1080** y **Match 0,5**. La elección de tamaño en la pestaña Game es local a cada editor: cada compañero debe seleccionarla en su ordenador.

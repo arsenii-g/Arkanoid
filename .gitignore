@@ -28,3 +28,6 @@
 *.apk
 *.aab
 *.unitypackage
+
+# Informes locales de cierres inesperados de Unity.
+mono_crash.*.json
